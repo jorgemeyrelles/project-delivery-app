@@ -1,0 +1,34 @@
+.navbar {
+  color: #f2fffc;
+  display: flex;
+  height: 60px;
+  width: 100%;
+}
+
+.navbar-items-container {
+  align-items: center;
+  background-color: #036b52;
+  display: flex;
+  flex-grow: 1;
+  font-weight: 700;
+}
+
+.navbar-item {
+  padding: 0 30px;
+}
+
+.navbar-user-name {
+  align-items: center;
+  background-color: #421981;
+  display: flex;
+  font-size: 1.2rem;
+  padding: 0 40px;
+}
+
+.navbar-logout {
+  align-items: center;
+  background-color: #056cf9;
+  display: flex;
+  font-size: 1.1rem;
+  padding: 0 40px;
+}
